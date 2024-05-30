@@ -2,3 +2,5 @@
 **/.exercism**
 **/HELP**
 **/HINTS**
+**/go.mod**
+**/test**
